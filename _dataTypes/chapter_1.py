@@ -6,5 +6,9 @@ sugar_amount = 20
 
 print(f"Another sugar: {sugar_amount}")
 
+name = "Rohit"
+
+print("My name is ",name)
+
 print(f"ID of  2: {id(2)}")
 print(f"ID of 12: {id(12)}")
